@@ -1,11 +1,11 @@
 # starter-maven-kotlin
 
-project starter with maven and kotlin.
+zig project starter.
 
-works on aarch64 on userland env
+tested on aarch64 on userland env
 
 # installation
 
 use  the script install.sh to clone and init a copy of this repository
 
-`curl https://raw.githubusercontent.com/alfu32/starter-kotlin-maven/main/install.sh | sh -`
+`curl https://raw.githubusercontent.com/alfu32/starter-zig/main/install.sh | sh -`

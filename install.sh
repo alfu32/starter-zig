@@ -1,4 +1,4 @@
-starter_name=starter-kotlin-maven
+starter_name=starter-zig
 repo=https://github.com/alfu32/$starter_name.git
 rand_tag=`echo $RANDOM | md5sum | head -c 20`
 
