@@ -1,4 +1,4 @@
-# starter-maven-kotlin
+# starter zig
 
 zig project starter.
 
